@@ -23,7 +23,7 @@ My research focuses on how strong physical constraints—such as walls and reduc
 
 I am currently working under the supervision of [Prof. Xi Chen](https://shi.buaa.edu.cn/chenxi97) at the Institute of Fluid Dynamics, [Beihang University](https://ev.buaa.edu.cn/).
 
-You can find my CV here: [Peng-Yu's Curriculum Vitae](../docs/Pengyu_Duan_CV.pdf).
+You can find my CV here: [Peng-Yu's Curriculum Vitae](./Pengyu_Duan_CV.pdf).
 
 **Research interests:**
 - Wall-bounded turbulence
@@ -38,14 +38,14 @@ You can find my CV here: [Peng-Yu's Curriculum Vitae](../docs/Pengyu_Duan_CV.pdf
 
 # 🔭 Research
 - **Two-Dimensional Turbulence**
-  - Developed a direct numerical simulation (DNS) code of incompressible two-dimensional channel flows based on Fortran/MPI+OpenMP. Conducted 19 cases with a maximum mesh size of 107, Reynolds number up to 106, and more than 106 CPU hours on supercomputers are used. 
+  - Developed a direct numerical simulation (DNS) code of incompressible two-dimensional channel flows based on Fortran/MPI+OpenMP. Conducted 19 cases with a maximum mesh size of $10^7$, Reynolds number up to $10^6$, and more than $10^6$ CPU hours on supercomputers are used. 
   - Discovered an unbounded Reynolds number scaling of turbulent fluctuations in two-dimensional near-wall turbulence, which was previously not considered, and developed a theoretical explanation for this newly found scaling. 
   - Revealed the different scaling of 2D and 3D wall flows is arising from the distinct energy cascade process. 
 - **Small-Scale Turbulence**
   - Analyzed the multiscale characteristics and intermittency of circulation in the inertial range of wall-bounded turbulence, and revealed the near-wall non-fractal and outer bifractal of circulation in wall-parallel planes.
   - Analyzed the intermittency of dissipation rate in the wall-parallel planes of wall-bounded turbulence, and revealed a bounded defect power-law scaling of wall dissipation moments and a power-law scaling of outer dissipation moments. 
 - **Passive Scalar Turbulence**
-  - Developed a new theoretical model for the mean scalar profiles in wall-bounded turbulence for different Prandtl numbers (both Pr ≪ 1 and Pr ≳ 1).
+  - Developed a new theoretical model for the mean scalar profiles in wall-bounded turbulence for different Prandtl numbers (both $Pr \ll 1$ and $Pr \gtrsim 1$).
   - Analyzed the scaling of near-wall scalar fluctuations in wall-bounded turbulence.
 - **Drag Reduction**
   - Developed a DNS code of incompressible three-dimensional channel flows based on Fortran/OpenMP, with immersed boundary methods applied to resolve the complex wall modifications. Friction Reynolds number up to 550.
@@ -60,7 +60,7 @@ You can find my CV here: [Peng-Yu's Curriculum Vitae](../docs/Pengyu_Duan_CV.pdf
 - **Peng-Yu Duan**, Xi Chen, Yong Ji, Jie Yao, and Fazle Hussain. "Large-scale control in turbulent flows over surface riblets." Physics of Fluids, 36, 095137, 2024. [(link)](https://doi.org/10.1063/5.0227151)
 - Xi Chen, **Peng-Yu Duan**, and Jianchao He. "Unbounded two-dimensional wall turbulence induced by inverse cascade." Physical Review Fluids, 9, 034609, 2024. [(link)](https://doi.org/10.1103/PhysRevFluids.9.034609)
 - **Peng-Yu Duan**, Xi Chen. "Composite drag control and energy flux analysis for wall turbulence." (In Chinese) Journal of Experiments in Fluid Mechanics, 4, 38, 2024. [(link)](https://www.syltlx.com/en/article/doi/10.11729/syltlx20230126?viewType=HTML)
-- Jianchao He, **Peng-Yu Duan**, Xi Chen. "Double-reflection symmetry of thermal convection for Rayleigh numbers up to 1010." Physics of Fluids, 36, 105113, 2024. [(link)](https://doi.org/10.1063/5.0229110)
+- Jianchao He, **Peng-Yu Duan**, Xi Chen. "Double-reflection symmetry of thermal convection for Rayleigh numbers up to 10^10." Physics of Fluids, 36, 105113, 2024. [(link)](https://doi.org/10.1063/5.0229110)
 
 
 # 💬 Talks
