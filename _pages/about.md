@@ -102,3 +102,8 @@ You can find my CV here: [Peng-Yu's Curriculum Vitae](../docs/Pengyu_Duan_CV.pdf
   <img src="/images/bubbles_and_the_sea.png" alt="Bubbles and the sea" width="50%">
   <figcaption>Bubbles (two-dimensional turbulence) and the sea (three-dimensional turbulence). </figcaption>
 </figure>
+
+<figure>
+  <img src="/images/universe_and_love.jpg" alt="The universe and love" width="50%">
+  <figcaption>The universe and love. </figcaption>
+</figure>
