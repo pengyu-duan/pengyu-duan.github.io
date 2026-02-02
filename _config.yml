@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peng-Yu Duan"
-description              : "Turbulence, <br> high-Reynolds-number flows, <br> and high-performance DNS. "
+description              : "Turbulence, <br> high-$Re$ flows, <br> and high-performance DNS. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
