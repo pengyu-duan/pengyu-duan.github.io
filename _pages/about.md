@@ -103,7 +103,7 @@ You can find my CV here: [Peng-Yu's Curriculum Vitae](./Pengyu_Duan_CV.pdf).
   <img src="/images/bubbles_and_the_sea.png" alt="Bubbles and the sea" width="30%">
 </figure>
 
-- **The universe and love.** *Captured at Ulanqab in summer 2023.*
+- **The turbulent universe and the enduring love.** *Captured at Ulanqab in summer 2023.*
 <figure>
   <img src="/images/universe_and_love.jpg" alt="The universe and love" width="30%">
 </figure>
