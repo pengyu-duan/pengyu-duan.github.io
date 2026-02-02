@@ -100,10 +100,10 @@ You can find my CV here: [Peng-Yu's Curriculum Vitae](../docs/Pengyu_Duan_CV.pdf
 # 🗺 Nature, Science, and Life
 - **Bubbles (2D turbulence) and the sea (3D turbulence).** *Captured at Dalian in summer 2023.*
 <figure>
-  <img src="/images/bubbles_and_the_sea.png" alt="Bubbles and the sea" width="50%">
+  <img src="/images/bubbles_and_the_sea.png" alt="Bubbles and the sea" width="30%">
 </figure>
 
 - **The universe and love.** *Captured at Ulanqab in summer 2023.*
 <figure>
-  <img src="/images/universe_and_love.jpg" alt="The universe and love" width="50%">
+  <img src="/images/universe_and_love.jpg" alt="The universe and love" width="30%">
 </figure>
