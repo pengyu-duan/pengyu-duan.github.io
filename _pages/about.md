@@ -98,4 +98,7 @@ You can find my CV here: [Peng-Yu's Curriculum Vitae](../docs/Pengyu_Duan_CV.pdf
 
 
 # 🗺 Nature, Science, and Life
-
+<figure>
+  <img src="bubbles_and_the_sea.png" alt="Bubbles and the sea" width="50%">
+  <figcaption>Bubbles (two-dimensional turbulence) and the sea (three-dimensional turbulence). </figcaption>
+</figure>
