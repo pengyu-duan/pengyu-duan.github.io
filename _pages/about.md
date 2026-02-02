@@ -33,36 +33,69 @@ You can find my CV here: [Peng-Yu's Curriculum Vitae](../docs/Pengyu_Duan_CV.pdf
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉🎉 Peng-Yu has launched his personal homepage! 
+
+
+# 🔭 Research
+- **Two-Dimensional Turbulence**
+  - Developed a direct numerical simulation (DNS) code of incompressible two-dimensional channel flows based on Fortran/MPI+OpenMP. Conducted 19 cases with a maximum mesh size of 107, Reynolds number up to 106, and more than 106 CPU hours on supercomputers are used. 
+  - Discovered an unbounded Reynolds number scaling of turbulent fluctuations in two-dimensional near-wall turbulence, which was previously not considered, and developed a theoretical explanation for this newly found scaling. 
+  - Revealed the different scaling of 2D and 3D wall flows is arising from the distinct energy cascade process. 
+- **Small-Scale Turbulence**
+  - Analyzed the multiscale characteristics and intermittency of circulation in the inertial range of wall-bounded turbulence, and revealed the near-wall non-fractal and outer bifractal of circulation in wall-parallel planes.
+  - Analyzed the intermittency of dissipation rate in the wall-parallel planes of wall-bounded turbulence, and revealed a bounded defect power-law scaling of wall dissipation moments and a power-law scaling of outer dissipation moments. 
+- **Passive Scalar Turbulence**
+  - Developed a new theoretical model for the mean scalar profiles in wall-bounded turbulence for different Prandtl numbers (both Pr ≪ 1 and Pr ≳ 1).
+  - Analyzed the scaling of near-wall scalar fluctuations in wall-bounded turbulence.
+- **Drag Reduction**
+  - Developed a DNS code of incompressible three-dimensional channel flows based on Fortran/OpenMP, with immersed boundary methods applied to resolve the complex wall modifications. Friction Reynolds number up to 550.
+  - Developed a new composite drag reduction method combining the large-scale control and surface riblets.
+  - Derived the expression of friction coefficient by turbulent dissipation rate for complex surfaces and active controls.
+
+
 
 # 📝 Publications 
+- **Peng-Yu Duan**, Xi Chen, and Katepalli R. Sreenivasan. "On how walls shape dissipation intermittency." Under review in Physical Review Research, 2025. [(arxiv)](https://arxiv.org/abs/2506.22917)
+- **Peng-Yu Duan**, Xi Chen, and Katepalli R. Sreenivasan. "Multiscale circulation in wall-parallel planes of turbulent channel flows." Journal of Fluid Mechanics, 1009, R4, 2025. [(link)](https://doi.org/10.1017/jfm.2025.252)
+- **Peng-Yu Duan**, Xi Chen, Yong Ji, Jie Yao, and Fazle Hussain. "Large-scale control in turbulent flows over surface riblets." Physics of Fluids, 36, 095137, 2024. [(link)](https://doi.org/10.1063/5.0227151)
+- Xi Chen, **Peng-Yu Duan**, and Jianchao He. "Unbounded two-dimensional wall turbulence induced by inverse cascade." Physical Review Fluids, 9, 034609, 2024. [(link)](https://doi.org/10.1103/PhysRevFluids.9.034609)
+- **Peng-Yu Duan**, Xi Chen. "Composite drag control and energy flux analysis for wall turbulence." (In Chinese) Journal of Experiments in Fluid Mechanics, 4, 38, 2024. [(link)](https://www.syltlx.com/en/article/doi/10.11729/syltlx20230126?viewType=HTML)
+- Jianchao He, **Peng-Yu Duan**, Xi Chen. "Double-reflection symmetry of thermal convection for Rayleigh numbers up to 1010." Physics of Fluids, 36, 105113, 2024. [(link)](https://doi.org/10.1063/5.0229110)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 💬 Talks
+- 78th Annual Meeting of the APS Division of Fluid Dynamics, Houston, USA, 2025.
+- 10th Chinese Congress of Theoretical and Applied Mechanics (CCTAM 2025), Changsha, China, 2025.
+- iTi Conference on Turbulence XI, Bertinoro, Italy, 2025.
+- 13th National Conference on Fluid Mechanics, Harbin, China, 2024.
+- 26th International Conference of the Theoretical and Applied Mechanics (ICTAM 2024), Daegu, Korea, 2024.
+- Euromech colloquia 631-Control of skin friction and convective heat transfer in wall-bounded flows, Online, 2024.
+- 16th International Conference on Fluid Control, Measurements, and Visualization, Beijing, China, 2023.
+- 76th Annual Meeting of the APS Division of Fluid Dynamics, Washington, DC, USA, 2023.
+- 2nd Chinese Conference of Areodynamics, Tianjin, China, 2023.
+- 12th National Conference on Fluid Mechanics, Online, 2022.
+- 75th Annual Meeting of the APS Division of Fluid Dynamics, Online, 2022.
+- 9th Chinese Congress of Theoretical and Applied Mechanics (CCTAM 2022), Chengdu, China, 2022.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06 - 2026.06 (expected)*, Ph.D. in Fluid Mechanics, Institute of Fluid Mechanics, Beihang University, Beijing, China.
+  <br /> advised by [Prof. Xi Chen](https://shi.buaa.edu.cn/chenxi97).
+- *2015.09 - 2021.06*, B.S. in Mechanics, School of Aeronautic Science and Engineering, Beihang University, Beijing, China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎖 Honors and Awards
+- *2025* National Scholarship
+- *2025* First Class Academic Scholarship
+- *2024* Merit Student of Beihang University
+- *2024* Outstanding Graduate Students
+- *2024* President Scholarship for Graduate Students
+- *2024* First Class Academic Scholarship
+- *2023* Second Class Academic Scholarship
+- *2022* Scholarships for Outstanding New Graduate Students
+- *2020* National Inspiration Scholarship
+
+
+# 🗺 Nature, Science, and Life
+
