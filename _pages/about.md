@@ -79,7 +79,7 @@ You can find my CV here: [Peng-Yu's Curriculum Vitae](./Pengyu_Duan_CV.pdf).
 
 
 
-# 📖 Educations
+# 📖 Education
 - *2021.06 - 2026.06 (expected)*, Ph.D. in Fluid Mechanics, Institute of Fluid Mechanics, Beihang University, Beijing, China.
   <br /> advised by [Prof. Xi Chen](https://shi.buaa.edu.cn/chenxi97).
 - *2015.09 - 2021.06*, B.S. in Mechanics, School of Aeronautic Science and Engineering, Beihang University, Beijing, China. 
