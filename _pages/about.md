@@ -72,7 +72,7 @@ You can find my CV here: [Peng-Yu's Curriculum Vitae](./Pengyu_Duan_CV.pdf).
 - Euromech colloquia 631-Control of skin friction and convective heat transfer in wall-bounded flows, Online, 2024.
 - 16th International Conference on Fluid Control, Measurements, and Visualization, Beijing, China, 2023.
 - 76th Annual Meeting of the APS Division of Fluid Dynamics, Washington, DC, USA, 2023.
-- 2nd Chinese Conference of Areodynamics, Tianjin, China, 2023.
+- 2nd Chinese Conference of Areodynamics, Tianjin, China, 2022.
 - 12th National Conference on Fluid Mechanics, Online, 2022.
 - 75th Annual Meeting of the APS Division of Fluid Dynamics, Online, 2022.
 - 9th Chinese Congress of Theoretical and Applied Mechanics (CCTAM 2022), Chengdu, China, 2022.
